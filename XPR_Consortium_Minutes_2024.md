@@ -1,7 +1,7 @@
 # XPR Network Consortium Agenda
 
 ### Meetings host: Paul Grey (protonnz)
-
+------------------------------------------------------------
 ## 21 February 2024
 ### Updates
 1. Ads Campaign on Twitter #2 Started (almost 8mm impressions already)
@@ -20,7 +20,7 @@
 ##Action Items
 1. B2B Companies Grants
 
-
+------------------------------------------------------------
 ## 7 February 2024
 ### Updates
 1. First 10mm impressions, first X ads ending today.
@@ -37,7 +37,7 @@
 ### Action Items
 1. Msig for blastpad
 
-
+------------------------------------------------------------
 ## 24 January 2024
 ### Updates
 1. Metal X review is live on Milk Road (4.⅘) https://milkroad.com/reviews/metal-x/
