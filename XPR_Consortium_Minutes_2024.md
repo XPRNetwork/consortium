@@ -17,7 +17,7 @@
 ### Discussion Topics
 1. [Decrypt Learn Series](https://decrypt.co/university) (potential WebAuth Integration) Can anyone help us write content?
 
-##Action Items
+### Action Items
 1. B2B Companies Grants
 
 ------------------------------------------------------------
